@@ -1,6 +1,8 @@
 # aws_links
 
-Policy generator
+IAM Policy generator  at: https://awspolicygen.s3.amazonaws.com/policygen.html
+to generate a JSON policy file 
 
-https://awspolicygen.s3.amazonaws.com/policygen.html
+IAM Policy Simulator  at: https://policysim.aws.amazon.com/
+to test IAM
 
